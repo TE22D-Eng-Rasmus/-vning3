@@ -1,0 +1,14 @@
+c:\Users\rasmus.eng\programering\prog2\näsan\Övning3\Övning3\bin\Debug\net8.0\Övning3.exe
+c:\Users\rasmus.eng\programering\prog2\näsan\Övning3\Övning3\bin\Debug\net8.0\Övning3.deps.json
+c:\Users\rasmus.eng\programering\prog2\näsan\Övning3\Övning3\bin\Debug\net8.0\Övning3.runtimeconfig.json
+c:\Users\rasmus.eng\programering\prog2\näsan\Övning3\Övning3\bin\Debug\net8.0\Övning3.dll
+c:\Users\rasmus.eng\programering\prog2\näsan\Övning3\Övning3\bin\Debug\net8.0\Övning3.pdb
+c:\Users\rasmus.eng\programering\prog2\näsan\Övning3\Övning3\obj\Debug\net8.0\Övning3.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\rasmus.eng\programering\prog2\näsan\Övning3\Övning3\obj\Debug\net8.0\Övning3.AssemblyInfoInputs.cache
+c:\Users\rasmus.eng\programering\prog2\näsan\Övning3\Övning3\obj\Debug\net8.0\Övning3.AssemblyInfo.cs
+c:\Users\rasmus.eng\programering\prog2\näsan\Övning3\Övning3\obj\Debug\net8.0\Övning3.csproj.CoreCompileInputs.cache
+c:\Users\rasmus.eng\programering\prog2\näsan\Övning3\Övning3\obj\Debug\net8.0\Övning3.dll
+c:\Users\rasmus.eng\programering\prog2\näsan\Övning3\Övning3\obj\Debug\net8.0\refint\Övning3.dll
+c:\Users\rasmus.eng\programering\prog2\näsan\Övning3\Övning3\obj\Debug\net8.0\Övning3.pdb
+c:\Users\rasmus.eng\programering\prog2\näsan\Övning3\Övning3\obj\Debug\net8.0\Övning3.genruntimeconfig.cache
+c:\Users\rasmus.eng\programering\prog2\näsan\Övning3\Övning3\obj\Debug\net8.0\ref\Övning3.dll
