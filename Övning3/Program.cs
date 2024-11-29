@@ -23,5 +23,11 @@ static void RightTriangleArea(float n1, float n2){
 }
 RightTriangleArea(5,8);
 
+static void circle(float r){
+  Console.WriteLine($"Circkelns area är radien som är {r} upphöjt i 2, gånger pi vilket vlir {r*r*3.1415}");
+}
+
+circle(7);
+
 
 Console.ReadLine();
