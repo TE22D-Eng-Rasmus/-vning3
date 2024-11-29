@@ -12,3 +12,4 @@ c:\Users\rasmus.eng\programering\prog2\näsan\Övning3\Övning3\obj\Debug\net8.0
 c:\Users\rasmus.eng\programering\prog2\näsan\Övning3\Övning3\obj\Debug\net8.0\Övning3.pdb
 c:\Users\rasmus.eng\programering\prog2\näsan\Övning3\Övning3\obj\Debug\net8.0\Övning3.genruntimeconfig.cache
 c:\Users\rasmus.eng\programering\prog2\näsan\Övning3\Övning3\obj\Debug\net8.0\ref\Övning3.dll
+c:\Users\rasmus.eng\programering\prog2\näsan\Övning3\Övning3\obj\Debug\net8.0\Övning3.sourcelink.json
