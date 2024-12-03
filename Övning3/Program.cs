@@ -1,4 +1,6 @@
 ﻿
+using System.Runtime.InteropServices;
+
 static void Hello32()
 {
   for (int i = 0; i <= 32; i++)
@@ -63,9 +65,33 @@ static int GetNumberInput()
 input();
 
 
-static void GetChoice(string gc1, string gc2, string gc3) { 
+static void GetChoice(string gc1 = "val 1", string gc2 = "val 2", string gc3 = "val 3")
+{
+  string[] gc = [gc1, gc2, gc3];
+  bool klar = false;
+  while (klar == false)
+  {
+    Console.WriteLine($"Välj ett val genom att skriva 1, 2 eller 3. {gc1}, {gc2}, {gc3}");
+    string val = Console.ReadLine();
+    if (int.TryParse(val, out int resultat))
+    {
+      if (1 <= resultat && resultat <= 3)
+      {
+        Console.WriteLine(gc[resultat - 1]);
+        klar = true;
+      }
+      else
+        Console.WriteLine("incorrect");
 
- }
+    }
+
+    else
+      Console.WriteLine("incorrect");
+
+
+  }
+}
+GetChoice();
 
 
 Console.ReadLine();
